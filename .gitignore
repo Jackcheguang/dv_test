@@ -1,0 +1,29 @@
+# 仿真输出
+*.wdb
+*.log
+*.dump
+transcript
+
+# ModelSim 相关
+work/
+*.mpf
+*.ini
+*.wlf
+
+# 编译输出
+*.o
+*.so
+*.a
+*.vdb
+*.d
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
